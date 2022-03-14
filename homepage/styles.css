@@ -1,0 +1,107 @@
+img {
+    transform: translate(5%,25%);
+}
+
+body {
+    background-color: #e0e0e0;
+}
+
+h1 { 
+     
+    background-color: #3e3e3e;
+    text-align: center;
+  }
+  #prudence {
+    width: 300px;
+  }
+  html {
+      background-color: #e0e0e0;
+  }
+  
+  .link {
+     padding: 75px;
+  }
+  
+  .whatp {
+      text-align: center;
+      transform: translate( 0%, 30%);
+      text-indent: 75px;
+      margin-right: 500px;
+      margin-left:500px;
+      font-style: italic;
+      border: 5px solid #3e3e3e;
+  }
+  
+  .whatimg {
+      transform: translate(100%,50%);
+  }
+  
+  a {
+      color: white;
+      font-style: verdana;
+    
+  }
+  
+  a:hover{
+      color: grey;
+      text-decoration: none;
+  }
+  
+  .whop {
+      text-align: center;
+      transform: translate( 0%, 30%);
+      text-indent: 75px;
+      margin-right: 500px;
+      margin-left:500px;
+      font-style: italic;
+      border: 5px solid #3e3e3e;
+  }
+  
+  .whoimg {
+      transform: translate(100%,50%);
+  }
+  
+  .whyvd {
+      transform: translate(25%,10%);
+  }
+  
+  
+  .whyimg {
+      transform: translate(100%,150%);
+  }
+  
+  
+  .whyp {
+      text-align: center;
+      transform: translate( 0%, -85%);
+      text-indent: 75px;
+      margin-right: 500px;
+      margin-left:500px;
+      font-style: italic;
+      border: 5px solid #3e3e3e;
+  }
+  
+  .howp {
+      text-align: center;
+      transform: translate( -22%, 25%);
+      text-indent: 75px;
+      margin-right: 100px;
+      margin-left: 500px;
+      font-style: italic;
+      border: 5px solid #3e3e3e;
+  }
+  
+  .howimg {
+      transform: translate(25%,25%);
+  }
+  
+  .whatp {
+      text-align: center;
+      transform: translate( 0%, 15%);
+      text-indent: 75px;
+      margin-right: 500px;
+      margin-left:500px;
+      font-style: italic;
+      border: 5px solid #3e3e3e;
+  }
+  
